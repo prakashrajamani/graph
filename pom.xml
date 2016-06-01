@@ -7,7 +7,7 @@
   <groupId>training.maven.graph</groupId>
   <artifactId>maven-graph</artifactId>
   <packaging>jar</packaging>
-  <version>1.0-SNAPSHOT</version>
+  <version>1.0-SNAPSHOT1</version>
   <name>Maven-Graph</name>
 
   
