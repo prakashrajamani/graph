@@ -52,5 +52,10 @@
     		<artifactId>wagon-file</artifactId>
     		<version>2.10</version>
 	</dependency>
+	<dependency>
+    		<groupId>org.hudsonci.plugins</groupId>
+    		<artifactId>findbugs</artifactId>
+    		<version>4.48-h-2</version>
+	</dependency>
   </dependencies>
 </project>
