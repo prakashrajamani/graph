@@ -8,7 +8,7 @@ int a = 10;
 int b = 20;
 int mul = a*b;
 
-Sysyem.out.println("Sum :" +mul);
+System.out.println("Sum :" +mul);
 
 }
 }
