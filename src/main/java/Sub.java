@@ -8,7 +8,7 @@ int a = 10;
 int b = 20;
 int sub = a-b;
 
-Sysyem.out.println("Sum :" +sub);
+System.out.println("Sum :" +sub);
 
 }
 }
